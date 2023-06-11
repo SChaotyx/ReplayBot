@@ -3,7 +3,7 @@
 	url = https://github.com/TsudaKageyu/minhook.git
 [submodule "libraries/gd.h"]
 	path = libraries/gd.h
-	url = git@github.com:matcool/gd.h.git
+	url = https://github.com/matcool/gd.h.git
 [submodule "libraries/nfd"]
 	path = libraries/nfd
 	url = https://github.com/mlabbe/nativefiledialog
@@ -13,4 +13,4 @@
 	url = https://github.com/HJfod/cocos-headers.git
 [submodule "libraries/mat-dash"]
 	path = libraries/mat-dash
-	url = git@github.com:matcool/mat-dash.git
+	url = https://github.com/matcool/mat-dash.git
